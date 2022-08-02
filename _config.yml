@@ -1,13 +1,9 @@
-name: СОРАС
-description: Торговый дом Сорас
+name:VIVA 
+description: Academy Hair VIVA
 contacts:
-  - link: 'tel:+74912252695'
-    name: +7 4912 25 26 95
-    icon: phone
-    description: телефон
 
-  - link: 'tel:+79109012525'
-    name: +7 910 901 25 25
+  - link: 'tel:+74912282344'
+    name: +7 (4912) 28-23-44
     icon: phone
     description: телефон
 
@@ -16,13 +12,23 @@ contacts:
     icon: map
     description: карта
 
-  - link: 'https://t.me/tdsoras'
+  - link: 't.me/academyviva'
     name: 'телеграм'
     icon: telegram
     description: 
 
+  - link: 't.me/academyvivachat'
+    name: 'телеграм'
+    icon: telegram
+    description: 
+
+  - link: 'https://vk.com/vivahairs'
+    name: 'контакт'
+    icon: telegram
+    description: 
+
   - link: ''
-    name: 'с 9:00-17:00'
+    name: 'с 9:00-21:00'
     icon: time
     description:  ''
 
@@ -31,17 +37,6 @@ contacts:
     icon: 
     description:  ''
 
-blocks:    
-  - name: Теплоизоляция
-    shade : red
-    link: '#'
-
-  - name: Кровельные материалы
-    shade : gray
-
-  - name:  Гидроизоляция
-    shade : red
-    link: '#'
 
 
 

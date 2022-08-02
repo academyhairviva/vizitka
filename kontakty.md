@@ -1,17 +1,16 @@
 ---
 ---
-## Адрес офиса
-390000, Рязань, ул. Почтовая, д. 58
-## Адрес склада
-203 км Окружной дороги Москва-Челябинск  
+## Адрес
+390006, Рязань, ул.Есенина д.63
 ## Контакты
-Телефон/факс: +7 (4912) 25-26-95  
-Телефон: +7 (910) 901-25-25  
-Время работы: с 9.00 до 17.00  
+Телефон: ['tel:+74912282344'](+7 (4912) 28-23-44)
+Время работы: с 9.00 до 21.00
+Telegram канал [t.me/academyviva](t.me/academyviva)
+Telegram чат [t.me/academyvivachat](t.me/academyvivachat) здесь можно задать интересующие Вас вопросы и записаться к мастеру
+В контакте [https://vk.com/vivahairs](https://vk.com/vivahairs)
+Instagram [https://www.instagram.com/vivahairs/](https://www.instagram.com/vivahairs/)
 Е-mail: [tdsoras@yandex.ru](mailto:mail@yandex.ru)
 
-## Расположение на карте склада
+## Расположение на карте
 
-<iframe frameborder="0" height="449" src="https://yandex.ru/map-widget/v1/?um=constructor%3A0fd7bbf49932bd62f32516b658b6eabad32447a3c2ffa01c9c332ef507af1c2b&amp;source=constructor" width="100%"></iframe>
-
-Уточняйте все выписанные счета по телефону +7 4912 25 26 95 с 9.00 до 17.00.
+<div style="position:relative;overflow:hidden;"><a href="https://yandex.ru/maps/11/ryazan/?utm_medium=mapframe&utm_source=maps" style="color:#eee;font-size:12px;position:absolute;top:0px;">Рязань</a><a href="https://yandex.ru/maps/11/ryazan/?ll=39.747415%2C54.616706&mode=search&sll=39.747109%2C54.616541&tab=inside&text=54.616541%2C39.747109&utm_medium=mapframe&utm_source=maps&z=17.66" style="color:#eee;font-size:12px;position:absolute;top:14px;">Улица Есенина, 63 — Яндекс Карты</a><iframe src="https://yandex.ru/map-widget/v1/-/CCURePeBTC" width="560" height="400" frameborder="1" allowfullscreen="true" style="position:relative;"></iframe></div>
