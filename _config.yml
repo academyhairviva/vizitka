@@ -4,21 +4,26 @@ description2: салон красоты
 contacts:
 
   - link: 'tel:+74912282344'
-    name: +7 (4912) 28-23-44
+    name: +7 4912 28 23 44
     icon: phone
     description: телефон
+
+  - link: ''
+    name: 'с 9:00-21:00'
+    icon: time
+    description:  ''
 
   - link: 'kontakty.html'
     name: 'Контакты'
     icon: map
     description: карта
 
-  - link: 't.me/academyviva'
+  - link: 'https://t.me/academyviva'
     name: 'телеграм'
     icon: telegram
     description: 
 
-  - link: 't.me/academyvivachat'
+  - link: 'https://t.me/academyvivachat'
     name: 'телеграм'
     icon: telegram
     description: 
@@ -27,11 +32,6 @@ contacts:
     name: 'контакт'
     icon: telegram
     description: 
-
-  - link: ''
-    name: 'с 9:00-21:00'
-    icon: time
-    description:  ''
 
   - link: 'https://disk.yandex.ru/d/wxQEzO3HXj6-LA'
     name: 'Прайс'
