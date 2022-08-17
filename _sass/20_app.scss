@@ -1,11 +1,19 @@
 [font="header"] {
-  font-family: Pxa, sans-serif;
+  font-family: micradi, sans-serif;
 }
-[font] {
-  font-family:  sans-serif;
+[font="pxa"] {
+  font-family: pxa, sans-serif;
 }
 @font-face {
-  font-family: "Pxa";
+  font-family: "pxa";
+  src: url("assets/pxa_2.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "micradi";
   src: url("assets/micradi.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
