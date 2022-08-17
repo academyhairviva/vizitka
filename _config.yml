@@ -19,17 +19,17 @@ contacts:
     description: карта
 
   - link: 'https://t.me/academyviva'
-    name: 'телеграм'
+    name: 'Телеграм канал'
     icon: telegram
     description: 
 
   - link: 'https://t.me/academyvivachat'
-    name: 'телеграм'
+    name: 'Телеграм чат'
     icon: telegram
     description: 
 
   - link: 'https://vk.com/vivahairs'
-    name: 'контакт'
+    name: 'Bконтактe'
     icon: telegram
     description: 
 
