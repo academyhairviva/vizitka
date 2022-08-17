@@ -30,12 +30,12 @@ contacts:
 
   - link: 'https://vk.com/vivahairs'
     name: 'Bконтактe'
-    icon: telegram
+    icon: vkontakte
     description: 
 
   - link: 'https://disk.yandex.ru/d/wxQEzO3HXj6-LA'
     name: 'Прайс'
-    icon: 
+    icon: price 
     description:  ''
 
 
