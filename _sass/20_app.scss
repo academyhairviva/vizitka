@@ -4,6 +4,12 @@
 [font="pxa"] {
   font-family: pxa, sans-serif;
 }
+[margin="0 1"] {
+  margin: 0 1rem;
+}
+[margin="1 0"] {
+  margin: 1rem 0;
+}
 @font-face {
   font-family: "pxa";
   src: url("assets/pxa_2.woff2") format("woff2");

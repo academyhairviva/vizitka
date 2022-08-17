@@ -1,5 +1,6 @@
 name: VIVA 
 description: Academy Hair VIVA
+description2: салон красоты
 contacts:
 
   - link: 'tel:+74912282344'
@@ -33,7 +34,7 @@ contacts:
     description:  ''
 
   - link: 'https://disk.yandex.ru/d/wxQEzO3HXj6-LA'
-    name: 'Скачать прайс'
+    name: 'Прайс'
     icon: 
     description:  ''
 

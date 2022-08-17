@@ -1,19 +1,16 @@
-<a href="/" alt="home" flex column>
-  <img
-    src="assets/logo.png"
-    alt="logo"
-    class="main-logo"
-    loading="lazy"
-    hide="mobile"
-  />
-  <img
-    src="assets/logo.png"
-    alt="logo"
-    class="main-logo"
-    loading="lazy"
-    hide="wide"
-  />
+<a href="/" alt="home" row="" style=" align-items: center; " font="header">
+  <img src="assets/logo.png" alt="logo" class="main-logo" loading="lazy" hide="mobile">
+  <div>
+    <h1 font="header"  margin="0 1">
+    {{ site.description}}
+    </h1>
+    <h2 font="header"   margin="0 1">
+    {{ site.description2}}
+    </h2>
+  </div>
+  <img src="assets/logo.png" alt="logo" class="main-logo" loading="lazy" hide="wide">
 </a>
+
 <ul column list='none' text='right'>
   {% for contact in site.contacts %}
   <li>
