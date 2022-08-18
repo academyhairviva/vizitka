@@ -64,6 +64,12 @@ body {
   flex-direction: row;
   flex-wrap: wrap;
 }
+[grow] {
+  flex-grow: 1;
+}
+[shrink] {
+  flex-shrink: 1;
+}
 [center="right"] {
   justify-content: flex-end;
 }

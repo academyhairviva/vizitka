@@ -1,4 +1,4 @@
-<a href="/" alt="home" row="" style=" align-items: center; " font="header">
+<a href="/" alt="home" row="" style=" align-items: center; " font="header" grow="">
   <img src="assets/logo.png" alt="logo" class="main-logo" loading="lazy" hide="mobile">
   <div hide="mobile">
     <h1 font="header"  margin="0 1">
@@ -11,7 +11,7 @@
   <img src="assets/logo.png" alt="logo" class="main-logo" loading="lazy" hide="wide">
 </a>
 
-<ul column list='none' text='right'>
+<ul column list='none' >
   {% for contact in site.contacts %}
   <li>
     {% if contact.link != "" %}
