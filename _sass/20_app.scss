@@ -57,7 +57,8 @@ body {
   flex-direction: column;
 }
 [column] {
-  flex: 1 1 10rem;
+  flex-direction: column;
+  flex: 0 1 10rem;
 }
 [row] {
   display: flex;
