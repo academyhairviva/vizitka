@@ -211,6 +211,11 @@ div#map-widget>iframe {
   width: 100%;
 }
 
+h2#контакты + ul >li:first-child>a {
+  text-decoration: none;
+  color: inherit;
+}
+
 @media (max-width: 42rem) {
   [column] {
     flex: 1 1 50%;
