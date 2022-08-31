@@ -207,7 +207,9 @@ img.main-logo {
 [hide="wide"] {
   display: none;
 }
-
+div#map-widget>iframe {
+  width: 100%;
+}
 
 @media (max-width: 42rem) {
   [column] {
