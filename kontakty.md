@@ -1,14 +1,14 @@
 ---
 ---
 ## Адрес
-390006, Рязань, ул.Есенина д.63
+- 390006, Рязань, ул.Есенина д.63
 ## Контакты
-- Телефон: ('tel:+74912282344')[+7 (4912) 28-23-44]
+- Телефон: [+7 (4912) 28-23-44]('tel:+74912282344')
 - Время работы: с 9.00 до 21.00
-- Telegram канал [t.me/academyviva](t.me/academyviva)
-- Telegram чат [t.me/academyvivachat](t.me/academyvivachat) здесь можно задать интересующие Вас вопросы и записаться к мастеру
-- В контакте [https://vk.com/vivahairs](https://vk.com/vivahairs)
-- Instagram [https://www.instagram.com/vivahairs/](https://www.instagram.com/vivahairs/)
+- Telegram канал: [t.me/academyviva](t.me/academyviva)
+- Telegram чат: [t.me/academyvivachat](t.me/academyvivachat) здесь можно задать интересующие Вас вопросы и записаться к мастеру
+- В контакте: [https://vk.com/vivahairs](https://vk.com/vivahairs)
+- Instagram: [https://www.instagram.com/vivahairs/](https://www.instagram.com/vivahairs/)
 - Е-mail: [vivaacademy@ya.ru](mailto:vivaacademy@ya.ru)
 
 ## Расположение на карте
