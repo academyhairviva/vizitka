@@ -241,6 +241,19 @@ h2#контакты + ul >li:first-child>a {
 }
 
 @media (max-width: 42rem) {
+
+
+button.glider-prev {
+  left: -1rem;
+}
+button.glider-next {
+  right:-1rem;
+}
+button.glider-prev, button.glider-next {
+  background: unset;
+  color:  unset;
+}
+
   [column] {
     flex: 1 1 50%;
   }
