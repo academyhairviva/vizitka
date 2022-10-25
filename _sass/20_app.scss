@@ -211,6 +211,30 @@ div#map-widget>iframe {
   width: 100%;
 }
 
+.glider-slide img {
+  width: 100%;
+}
+
+button.glider-prev {
+  position: absolute;
+  left: 0;
+}
+button.glider-next {
+  position: absolute;
+  right: 0;
+}
+
+button.glider-prev, button.glider-next {
+  background: #bababa;
+  padding: 6px 17px 10px;
+  border-radius: 3rem;
+  line-height: 1;
+  text-align: center;
+  color: #fff;
+}
+
+
+
 h2#контакты + ul >li:first-child>a {
   text-decoration: none;
   color: inherit;

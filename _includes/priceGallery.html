@@ -1,0 +1,44 @@
+{% assign image_files = site.static_files | where: "price", true %}
+
+<script src="assets/glider-compat.min.js"></script>
+<script src="assets/glider.min.js"></script>
+<link rel="stylesheet" href="assets/glider.min.css">
+
+<div data-name="Single Item" class="glider-contain">
+
+<div class="glider">
+
+{% for image in image_files %}
+          <div
+            class="glider-slide"
+          >
+            <img src="{{ image.path }}" >
+          </div>
+{% endfor %}
+
+</div>
+
+
+
+  <button aria-label="Previous" class="glider-prev">«</button>
+  <button aria-label="Next" class="glider-next">»</button>
+  <div role="tablist" class="dots"></div>
+
+
+</div>
+
+
+
+<script>
+new Glider(document.querySelector('.glider'), {
+  slidesToShow: 1,
+  slidesToScroll: 1,
+  dots: '#dots',
+  draggable: true,
+  scrollLock: true,
+  arrows: {
+    prev: '.glider-prev',
+    next: '.glider-next'
+  }
+});
+</script>

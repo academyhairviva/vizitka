@@ -33,11 +33,16 @@ contacts:
     icon: vkontakte
     description: 
 
-  - link: 'https://disk.yandex.ru/d/nax7M53CahYT1Q'
+  # - link: 'https://disk.yandex.ru/d/nax7M53CahYT1Q'
+  #   name: 'Прайс'
+  #   icon: price 
+  #   description:  ''
+
+
+  - link: 'price.html'
     name: 'Прайс'
     icon: price 
     description:  ''
-
 
 
 
@@ -55,3 +60,8 @@ plugins_dir:
 defaults:
   - values:
       layout: page
+
+  - scope:
+      path: "assets/price"
+    values:
+      price: true
