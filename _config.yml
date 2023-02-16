@@ -13,6 +13,11 @@ contacts:
     icon: time
     description:  ''
 
+  - link: 'https://n847427.yclients.com'
+    name: 'Онлайн-запись'
+    icon: book 
+    description:  ''
+
   - link: 'kontakty.html'
     name: 'Контакты'
     icon: map
@@ -32,12 +37,6 @@ contacts:
     name: 'Bконтактe'
     icon: vkontakte
     description: 
-
-  # - link: 'https://disk.yandex.ru/d/nax7M53CahYT1Q'
-  #   name: 'Прайс'
-  #   icon: price 
-  #   description:  ''
-
 
   - link: 'price.html'
     name: 'Прайс'

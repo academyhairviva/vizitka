@@ -6,6 +6,7 @@
 ## Контакты
 - Телефон: [+7 (4912) 28-23-44](tel:+74912282344)
 - Время работы: с 9.00 до 21.00
+- [Онлайн-запись:](t.me/academyviva)
 - Telegram канал: [t.me/academyviva](t.me/academyviva)
 - Telegram чат: [t.me/academyvivachat](t.me/academyvivachat) здесь можно задать интересующие Вас вопросы и записаться к мастеру
 - В контакте: [vk.com/vivahairs](https://vk.com/vivahairs)
