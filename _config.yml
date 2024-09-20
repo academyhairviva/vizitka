@@ -38,11 +38,6 @@ contacts:
     icon: vkontakte
     description: 
 
-  - link: 'price.html'
-    name: 'Прайс'
-    icon: price 
-    description:  ''
-
 
 
 theme: null
