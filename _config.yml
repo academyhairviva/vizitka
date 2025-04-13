@@ -23,13 +23,8 @@ contacts:
     icon: map
     description: карта
 
-  - link: 'https://t.me/academyviva'
-    name: 'Телеграм канал'
-    icon: telegram
-    description: 
-
-  - link: 'https://t.me/academyvivachat'
-    name: 'Телеграм чат'
+  - link: 'https://t.me/vivahairspro'
+    name: 'Телеграм'
     icon: telegram
     description: 
 
