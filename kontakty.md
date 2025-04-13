@@ -7,8 +7,7 @@
 - Телефон: [+7 (4912) 28-23-44](tel:+74912282344)
 - Время работы: с 9.00 до 21.00
 - Онлайн-запись: [n847427.yclients.com](https://n847427.yclients.com)
-- Telegram канал: [t.me/academyviva](t.me/academyviva)
-- Telegram чат: [t.me/academyvivachat](t.me/academyvivachat) здесь можно задать интересующие Вас вопросы и записаться к мастеру
+- Telegram: [t.me/vivahairspro](t.me/vivahairspro)
 - В контакте: [vk.com/vivahairs](https://vk.com/vivahairs)
 
 ## Расположение на карте
