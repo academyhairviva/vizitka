@@ -10,8 +10,6 @@
 - Telegram канал: [t.me/academyviva](t.me/academyviva)
 - Telegram чат: [t.me/academyvivachat](t.me/academyvivachat) здесь можно задать интересующие Вас вопросы и записаться к мастеру
 - В контакте: [vk.com/vivahairs](https://vk.com/vivahairs)
-- Instagram: [instagram.com/vivahairs/](https://www.instagram.com/vivahairs/)
-- Е-mail: [vivaacademy@ya.ru](mailto:vivaacademy@ya.ru)
 
 ## Расположение на карте
 
