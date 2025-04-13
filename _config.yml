@@ -23,9 +23,19 @@ contacts:
     icon: map
     description: карта
 
-  - link: 'https://t.me/vivahairspro'
+  - link: 'https://t.me/vivahairs_pro'
     name: 'Телеграм'
     icon: telegram
+    description: 
+
+  - link: 'https://t.me/vivahairspro'
+    name: 'Телеграм чат'
+    icon: telegram
+    description: 
+
+  - link: 'https://api.whatsapp.com/send/?phone=79106283777&text&type=phone_number'
+    name: 'Whatsapp'
+    icon: whatsapp
     description: 
 
   - link: 'https://vk.com/vivahairs'
