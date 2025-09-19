@@ -3,6 +3,11 @@ description: Academy Hair VIVA
 description2: салон красоты
 contacts:
 
+  - link: 'tel:+79106283777'
+    name: tel:+74912282344
+    icon: phone
+    description: телефон
+
   - link: 'tel:+74912282344'
     name: +7 4912 28 23 44
     icon: phone
@@ -23,15 +28,17 @@ contacts:
     icon: map
     description: карта
 
-  - link: 'https://t.me/vivahairs_pro'
+  - link: 'https://t.me/vivahairspro'
     name: 'Телеграм'
     icon: telegram
     description: 
 
-  - link: 'https://t.me/vivahairspro'
-    name: 'Телеграм чат'
+
+  - link: 'https://t.me/vivahairs_pro'
+    name: 'Telegram канал'
     icon: telegram
     description: 
+
 
   - link: 'https://api.whatsapp.com/send/?phone=79106283777&text&type=phone_number'
     name: 'Whatsapp'

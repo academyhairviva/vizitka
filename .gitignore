@@ -105,3 +105,4 @@ dist
 .jekyll-cache
 _site
 assets/.DS_Store
+assets/price/.DS_Store
