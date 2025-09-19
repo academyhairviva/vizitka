@@ -271,10 +271,12 @@ button.glider-prev, button.glider-next {
 
 
 
-h2#контакты + ul >li:first-child>a {
-  text-decoration: none;
-  color: inherit;
-}
+// h2#контакты + ul >li:first-child>a {
+//   text-decoration: none;
+//   color: inherit;
+// }
+
+
 
 @media (max-width: 42rem) {
 
